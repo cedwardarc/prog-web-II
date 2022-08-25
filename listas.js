@@ -1,4 +1,3 @@
-
 const subtitulos = document.querySelectorAll('h2');
 const topicos = new Array();
 subtitulos.forEach(subtitulo => {
